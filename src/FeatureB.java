@@ -8,11 +8,7 @@ public class FeatureB {
         int a = 1;
         int b = 2;
         System.out.println(addInts(a, b));
-        int d = 10;
-
-        System.out.println("Das ist eine Änderung von Regina.");
-
-        System.out.println(subtractInts(d, c));
+        System.out.println("Added by Abdul.");
     }
     public static int addInts(int a, int b) {
         return a + b;
