@@ -9,6 +9,7 @@ public class FeatureB {
         System.out.println(subtractInts(a, b));
         System.out.println(multiplyInts(a, b));
         System.out.println(divideInts(a, b));
+        System.out.println("Added by Abdul.");
     }
     public static int addInts(int a, int b) {
         return a + b;
