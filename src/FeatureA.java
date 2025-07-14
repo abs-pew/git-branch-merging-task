@@ -6,5 +6,6 @@ public class FeatureA {
         System.out.println("von Abdul");
 
         System.out.println("Hallo hier ist der Versuch, einen neuen Konflikt zu erzeugen. :)");
+        System.out.println("Das ist eine neue Zeile um 11:30 von Regina.");
     }
 }
