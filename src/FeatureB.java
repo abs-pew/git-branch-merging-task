@@ -8,9 +8,17 @@ public class FeatureB {
         int a = 1;
         int b = 2;
         System.out.println(addInts(a, b));
-        System.out.println("Hallo");
     }
     public static int addInts(int a, int b) {
         return a + b;
+    }
+    public static int subtractInts(int a, int b) {
+        return a - b;
+    }
+    public static int multiplyInts(int a, int b) {
+        return a * b;
+    }
+    public static int divideInts(int a, int b) {
+        return a / b;
     }
 }
